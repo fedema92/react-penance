@@ -1,9 +1,9 @@
 {
     "name": "react-penance",
     "version": "1.0.0",
-    "author": "elvism",
+    "author": "fedemauti",
     "description": "React package for party games and events, write your list of penance and have fun with your friends",
-    "repository": "https://github.com/fedema92/react-penance",
+    "repository": "https://github.com/fedemauri/react-penance",
     "homepage": "http://federicomauri.altervista.org/react-penance",
     "devDependencies": {
         "react-scripts": "0.8.4"
