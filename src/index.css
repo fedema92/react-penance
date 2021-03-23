@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #222;
+    height: 100%;
+}
+
+.container {
+    height: 100vh;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 3rem;
+    color: aliceblue;
+    margin: 0;
+    text-shadow: 0 0 2px black;
+    font-size: xx-large;
+}
+
+.button-penance {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    font-size: xx-large;
+    background-color: darkred;
+    color: white;
+    border-radius: 14px;
+}
+.penance {
+    color: darkred;
+    text-shadow: 0 0 2px #fff;
+    font-size: xx-large;
+    background-color: #ffffff80;
+    padding: 2rem;
+}
